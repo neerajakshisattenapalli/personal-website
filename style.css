@@ -1,0 +1,104 @@
+.hero{
+    background-color: #e4f9f5;
+    color:#66BFBF;
+    font-size:1.5rem;
+    font-family: 'Dancing Script', cursive;
+    padding-top:100px;
+    padding-bottom:20px;
+}
+.hero h1{
+    font-family: 'Sacramento', cursive;
+    font-weight:900;
+    font-size:5rem;
+}
+body{
+    text-align:center;
+}
+.hello{
+    display: flex;
+    align-self:flex-end;
+}
+.second_section img{
+    border-radius:50%;
+    height:150px;
+    width:150px;
+    margin-top:30px;
+    margin-bottom: 20px;
+}
+.intro{
+    font-size:1rem;
+    font-family: "Merriweather", serif;
+}
+h2{
+    color:#66BFBF;
+    font-weight:normal;
+    font-size:3rem;
+}
+.third_section{
+    margin-top:100px;
+}
+.fourth{
+    margin-top:150px;
+}
+.links{
+    margin-top:100px;
+    padding-top:50px;
+    padding-bottom:20px;
+    background-color:#66BFBF;
+    display:flex;
+    justify-content:center;
+    gap:20px;
+    
+}
+.link{
+    background-color:#66BFBF;
+    padding-bottom:50px
+    
+}
+.third1{
+    display:inline-flex;
+    gap:30px;
+    padding-top:50px;
+}
+.third2{
+    display:inline-flex;
+    gap:30px;
+}
+.laptop img{
+   height:200px;
+   width:200px;
+   border-radius: 50%;
+}
+.peace img{
+    height:200px;
+   width:200px;
+   border-radius: 50%;
+}
+.peace{
+    text-align:left;
+    margin-top:50px;
+}
+.code{
+    text-align:left;
+}
+h3{
+    color:#279494;
+    font-size:1.5rem;
+}
+.btn{
+    padding:10px;
+    border-radius:10px;
+    font-size:1.5rem;
+    background-color: #11CDD4;
+    color:white;
+    border-color: white;
+}
+.space{
+    margin-bottom:50px;
+}
+.touch{
+    margin-bottom:20px;
+}
+
+
+
